@@ -2,13 +2,7 @@
 h2{
     text-align: center;
 }
-h3{
-    border-bottom: 2px solid rgb(0, 38, 103);
-    text-align: center;
-    font-size: 25px;
-    padding: 10px;
-    
-}
+
 .bob {
     display:flex;
     background: transparent;
